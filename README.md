@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![krmahi's GitHub | Languages Over Time](https://stats.quine.sh/krmahi/languages-over-time?theme=dark)](https://quine.sh)
-[![krmahi's GitHub | Stats](https://stats.quine.sh/krmahi/github?theme=dark)](https://quine.sh)
+[![krmahi's GitHub | Stats](https://stats.quine.sh/krmahi/github?theme=dark)](https://quine.sh) [![krmahi's GitHub | Languages Over Time](https://stats.quine.sh/krmahi/languages-over-time?theme=dark)](https://quine.sh)
+
 [![krmahi's GitHub | Topics Over Time](https://stats.quine.sh/krmahi/topics-over-time?theme=dark)](https://quine.sh)
