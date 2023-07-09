@@ -84,13 +84,7 @@
 
 <br clear="both">
 
-<div align="left">
-  <img height="310" src="https://media2.giphy.com/media/Basrh159dGwKY/giphy.gif?cid=ecf05e473ibt502vllmyfwv2wyoy8citf8hvrd0pa6273dgm&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
-</div>
-
-###
-
-<div align="right">
+<div align="center">
   <img height="310" src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/tumblr_nlaq8aGXw61qze3hdo1_500.gif"  />
 </div>
 
