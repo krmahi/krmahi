@@ -1,20 +1,3 @@
-
-
-<!--
-**krmahi/krmahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h3 align="center">Hi 👋! My name is Mahesh and I'm a Software Developer | UI/UX Designer | Front End Developer | Problem Solver  from India.....</h3>
 
 ###
@@ -25,6 +8,12 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=krmahi&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&custom_title=Github Stats" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=krmahi&locale=en&mode=daily&theme=shades-of-purple&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krmahi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=shades-of-purple&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=krmahi.krmahi&left_text=Views"  />
 </div>
 
 ###
@@ -73,10 +62,6 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=krmahi.krmahi&"  />
-
-###
-
 <br clear="both">
 
 <div align="left">
@@ -99,17 +84,21 @@ Here are some ideas to get you started:
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/krmahi/krmahi/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img align="left" height="310" src="https://media2.giphy.com/media/Basrh159dGwKY/giphy.gif?cid=ecf05e473ibt502vllmyfwv2wyoy8citf8hvrd0pa6273dgm&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<br clear="both">
+
+<div align="left">
+  <img height="310" src="https://media2.giphy.com/media/Basrh159dGwKY/giphy.gif?cid=ecf05e473ibt502vllmyfwv2wyoy8citf8hvrd0pa6273dgm&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
 
-<img align="right" height="310" src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/tumblr_nlaq8aGXw61qze3hdo1_500.gif"  />
+<div align="right">
+  <img height="310" src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/tumblr_nlaq8aGXw61qze3hdo1_500.gif"  />
+</div>
 
 ###
 
