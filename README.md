@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Mahesh and I'm a Software Developer | UI/UX Designer | Front End Developer | Problem Solver  from India.....</h3>
+<h3 align="center">Hi 👋! My name is Mahesh and I'm a Software Developer | UI/UX Designer | Front End Developer | Problem Solver </h3>
 
 ###
 
