@@ -43,25 +43,29 @@ src="https://img.shields.io/github/followers/krmahi?logo=github&style=for-the-ba
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/krmahi/portfolio-bento-ui" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krmahi&repo=portfolio-bento-ui&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/krmahi/2d_ray_casting" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krmahi&repo=2d_ray_casting&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/krmahi/portfolio-bento-ui" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krmahi&repo=portfolio-bento-ui&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/krmahi/2d_ray_casting" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krmahi&repo=2d_ray_casting&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/krmahi/Gender-recognition-using-voice-GUI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krmahi&repo=Gender-recognition-using-voice-GUI&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/krmahi/Volume-control-using-hand-gestures" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krmahi&repo=Volume-control-using-hand-gestures&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en" /></a></div>
-<div align="center">
-  <img height="310" src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/tumblr_nlaq8aGXw61qze3hdo1_500.gif"  />
+
+<div width="100%" align="center"><a href="https://github.com/krmahi/Gender-recognition-using-voice-GUI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krmahi&repo=Gender-recognition-using-voice-GUI&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/krmahi/Volume-control-using-hand-gestures" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krmahi&repo=Volume-control-using-hand-gestures&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br />
+
+<br /><br /><br />
+<br /><br /><br />
+
+<div  align = 'center'>
+
+  <img align = 'left'  src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/tumblr_nlaq8aGXw61qze3hdo1_500.gif"  />
+
+
+
+
+<img align="right" height = '600' src="https://66.media.tumblr.com/43ff1ae84968ffd84606207e9995a78e/tumblr_py4mvbGe6h1tgo74ho1_1280.gif"  />
+
+
+
+<img align="left" src="https://camo.githubusercontent.com/f0fed2cc76d33b8fb1ec1c551f4346dbe5731ecb78ece082690de9b7405cb698/68747470733a2f2f73706f746966792d726563656e746c792d706c617965642d726561646d652e76657263656c2e6170702f6170693f757365723d6835796f34343477346375357971656669307339376f34386a"  />
+
 </div>
 
-###
 
-<br clear="both">
-
-<img align="right" height="500" src="https://66.media.tumblr.com/43ff1ae84968ffd84606207e9995a78e/tumblr_py4mvbGe6h1tgo74ho1_1280.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=h5yo444w4cu5yqefi0s97o48j" alt="Spotify recently played"  />
-</div>
-
-###
