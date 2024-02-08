@@ -60,7 +60,7 @@ src="https://img.shields.io/github/followers/krmahi?logo=github&style=for-the-ba
 
 
 
-<img align="right" height = '600' src="https://66.media.tumblr.com/43ff1ae84968ffd84606207e9995a78e/tumblr_py4mvbGe6h1tgo74ho1_1280.gif"  />
+<img align="right" height = '500' src="https://66.media.tumblr.com/43ff1ae84968ffd84606207e9995a78e/tumblr_py4mvbGe6h1tgo74ho1_1280.gif"  />
 
 
 
