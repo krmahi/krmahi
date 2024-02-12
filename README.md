@@ -17,6 +17,9 @@ Software Developer | Frontend Developer | UI / UX Designer
 <a href="https://www.github.com/krmahi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/krmahi?logo=github&style=for-the-badge&color=ec4899&labelColor=171717" /></a>
 
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=krmahi.krmahi&"  />
+<br>
+
 ### Skills
 
 
