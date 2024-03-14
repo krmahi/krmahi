@@ -40,7 +40,9 @@ src="https://img.shields.io/github/followers/krmahi?logo=github&style=for-the-ba
 
 <a href="http://www.github.com/krmahi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krmahi&stroke=ffffff&background=171717&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<!---
 <a href="https://github.com/krmahi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krmahi&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+--->
 
 <b>Top Repositories</b>
 
