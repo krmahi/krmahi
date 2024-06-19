@@ -9,7 +9,7 @@ Software Developer | Frontend Developer | UI / UX Designer
 * 🌍  I'm based in Delhi, India
 * 🖥️  See my portfolio at [krmahi | bento-ui](http://krmahi.github.io/portfolio-bento-ui)
 * ✉️  You can contact me at [mahesh.kr.2277@gmail.com](mailto:mahesh.kr.2277@gmail.com)
-* 🚀  I'm currently working on [Bento-ui-portfolio](http://github.com/krmahi/portfolio-bento-ui)
+* 🚀  I'm currently working on [Bento-ui-portfolio](http://github.com/krmahi/portfolio-bento-ui) && [AutoNavSenseHD - CS Major](https://github.com/krmahi/AutoNavSenseHD)
 * 🧠  I'm learning " React-Native, | Dart | Rest-API | Postman API "
 * 🤝  I'm open to collaborating on Frontend | UI / UX | Cross-platform applications
 * ⚡  "Seeking for a Job , while learning from a cause"
