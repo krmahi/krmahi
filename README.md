@@ -35,10 +35,14 @@ src="https://img.shields.io/github/followers/krmahi?logo=github&style=for-the-ba
 ### Badges
 
 <b>My GitHub Stats</b>
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krmahi&theme=dark" alt="krmahi | Stats" />
 
 <a href="http://www.github.com/krmahi"><img src="https://github-readme-stats.vercel.app/api?username=krmahi&show_icons=true&hide=contribs&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&hide_rank=true" alt="krmahi's GitHub stats" /></a>
 
 <a href="http://www.github.com/krmahi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krmahi&stroke=ffffff&background=171717&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 
 <!---
 <a href="https://github.com/krmahi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krmahi&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
