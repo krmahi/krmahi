@@ -11,7 +11,7 @@ Software Developer | Frontend Developer | UI / UX Designer
 * ✉️  You can contact me at [mahesh.kr.2277@gmail.com](mailto:mahesh.kr.2277@gmail.com)
 * 🚀  I'm currently working on [Bento-ui-portfolio](http://github.com/krmahi/portfolio-bento-ui) && [AutoNavSenseHD - CS Major](https://github.com/krmahi/AutoNavSenseHD)
 * 🧠  I'm learning " Digital Art 💕 | Graphic Design "
-* 🤝  I'm open to collaborating on Frontend | UI / UX | Cross-platform applications
+* 🤝  I'm open to collaborating on Frontend | UI / UX | Graphics | Up for any challenge
 * ⚡  "Seeking for a Job , while learning from a cause"
 
 <a href="https://www.github.com/krmahi" target="_blank" rel="noreferrer"><img
